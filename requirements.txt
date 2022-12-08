@@ -3,7 +3,7 @@ astroid==2.3.3
 backports.functools-lru-cache==1.5
 blurhash==1.1.4
 boost==0.1
-certifi==2020.4.5.1
+certifi==2022.12.7
 chardet==3.0.4
 cheroot==6.5.8
 CherryPy==18.2.0
